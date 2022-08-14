@@ -18,5 +18,3 @@ Ps., Your suggestions are always welcomed!
 smilewithkhushi/smilewithkhushi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-[![Braydon's GitHub Banner](./assets/GitHubHeader.png)](https://braydoncoyer.dev)

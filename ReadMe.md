@@ -42,7 +42,7 @@
   <img src="https://img.shields.io/badge/CANVA-E34F26?style=for-the-badge&logo=CANVA&logoColor=white" />
 </p>
 
- 
+ <H3 ALIGN="center"> *Show some ❤️ by starring these repositories* </H3>
 <h1 align="center"> Khushi Panwar's GitHub Activity </h1>  
 <p align="center"><a href="https://github.com/smilewithkhushi">
 <img width=40% src="https://github-readme-stats.vercel.app/api/top-langs?username=smilewithkhushi&show_icons=true&locale=en&layout=compact" alt="smilewithkhushi" />

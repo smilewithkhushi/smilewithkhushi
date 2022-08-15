@@ -1,6 +1,7 @@
 <h1 align="center">Hi there! I'm Khushi Panwar <br> <img src="https://c.tenor.com/neqnFd4CHWAAAAAC/up-wave.gif" width=150 /> </h1>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=smilewithkhushi&label=Profile%20views&color=0e75b6&style=flat" alt="smilewithkhushi"/></p>
 
+<img align="right" src="https://c.tenor.com/Rft05nnPfpgAAAAM/sewa-rumah-nak-baya-bile.gif" width=300 margin="20px"/>
 <h3 align="left">About Me: </h3>
 
 - 😄 Pronouns: *She/Her*

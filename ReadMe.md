@@ -19,8 +19,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/smilewithkhushi" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="mailto:smilewithkhushiyt@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/smilewithkhushi" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" height="40" width="40" /></a>
+<a href="mailto:smilewithkhushiyt@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" height="40" width="40" /></a>
+<a href="https://facebook.com/in/smilewithkhushi1" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="Facebook" height="40" width="40" /></a>
+<a href="https://instagram.com/in/smilewithkhushi_" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-official.svg" alt="instagram" height="40" width="40" /></a>
 
   
   <h1 align="center"> Khushi Panwar's GitHub Activity </h1>  

@@ -8,6 +8,8 @@
 
 - 👩🏻‍💻 Education: *2nd Year Undergrad pursuing B.Sc(H) Computer Science*
 
+- 👩🏻‍💻 Technical Education: *ADCA-WEB*
+
 - 🌱 I’m currently working on *Web Development, Competitive Programming and Data Science*
 
 - 🤝 Looking to collaborate on *Web and Android Development*

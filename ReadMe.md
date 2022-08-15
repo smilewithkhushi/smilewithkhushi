@@ -34,6 +34,13 @@
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 </p>
+
+
+<h3 align="left">Tools:</h3>
+<p><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
+  </p>
+
  
 <h1 align="center"> Khushi Panwar's GitHub Activity </h1>  
 <p align="center"><a href="https://github.com/smilewithkhushi">

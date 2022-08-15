@@ -19,14 +19,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/smilewithkhushi" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" height="30" width="30" /></a>
-<a href="mailto:smilewithkhushiyt@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" height="30" width="40" /></a>
-<a href="https://facebook.com/in/smilewithkhushi1" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="Facebook" height="30" width="30" /></a>
-<a href="https://instagram.com/in/smilewithkhushi_" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" alt="instagram" height="30" width="30" /></a>
-
+<a href="https://linkedin.com/in/smilewithkhushi" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" height="40" width="40" /></a>
+<a href="https://facebook.com/smilewithkhushi1" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="Facebook" height="40" width="40" /></a>
+<a href="https://instagram.com/smilewithkhushi_" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" alt="instagram" height="40" width="40" /></a>
+<a href="https://twitter.com/smilewithkhushi" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="twitter" height="40" width="40" /></a>
+<a href="mailto:smilewithkhushiyt@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" height="40" width="50" /></a>
   
-  <h1 align="center"> Khushi Panwar's GitHub Activity </h1>  
- <p align="center"><a href="https://github.com/smilewithkhushi">
+ 
+<h1 align="center"> Khushi Panwar's GitHub Activity </h1>  
+<p align="center"><a href="https://github.com/smilewithkhushi">
 <img width=40% src="https://github-readme-stats.vercel.app/api/top-langs?username=smilewithkhushi&show_icons=true&locale=en&layout=compact" alt="smilewithkhushi" />
 <img width=48% src="https://github-readme-stats.vercel.app/api?username=smilewithkhushi&show_icons=true&locale=en" alt="smilewithkhushi" />
 <img width=40% src="https://github-readme-streak-stats.herokuapp.com/?user=smilewithkhushi&" alt="smilewithkhushi" /></p>

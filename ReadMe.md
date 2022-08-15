@@ -21,7 +21,7 @@
 <a href="mailto:smilewithkhushiyt@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" height="30" width="40" /></a>
 
   
-  
+  <h1 align="center"> Khushi Panwar's GitHub Activity </h1>  
  <p align="center"><a href="https://github.com/smilewithkhushi">
 <img width=40% src="https://github-readme-stats.vercel.app/api/top-langs?username=smilewithkhushi&show_icons=true&locale=en&layout=compact" alt="smilewithkhushi" />
 <img width=48% src="https://github-readme-stats.vercel.app/api?username=smilewithkhushi&show_icons=true&locale=en" alt="smilewithkhushi" />

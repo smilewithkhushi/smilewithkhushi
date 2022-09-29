@@ -49,3 +49,5 @@
 <img width=48% src="https://github-readme-stats.vercel.app/api?username=smilewithkhushi&show_icons=true&locale=en" alt="smilewithkhushi" />
 <img width=40% src="https://github-readme-streak-stats.herokuapp.com/?user=smilewithkhushi&" alt="smilewithkhushi" /></p>
 <img alt="Khushi's Activity Graph" width="99%" src="https://activity-graph.herokuapp.com/graph?username=smilewithkhushi&bg_color=FFFFFF&color=000000&line=#38940A&point=000000&hide_border=true">
+
+[![@smilewithkhushi's Holopin board](https://holopin.io/api/user/board?user=smilewithkhushi)](https://holopin.io/@smilewithkhushi)

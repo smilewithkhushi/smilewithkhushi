@@ -43,11 +43,23 @@
 </p>
 
  <H3 ALIGN="center"> *Show some ❤️ by starring these repositories* </H3>
-<h1 align="center"> Khushi Panwar's GitHub Activity </h1>  
+<h1 align="center"> ✨ Khushi Panwar's GitHub Activity ✨</h1>  
 <p align="center"><a href="https://github.com/smilewithkhushi">
 <img width=40% src="https://github-readme-stats.vercel.app/api/top-langs?username=smilewithkhushi&show_icons=true&locale=en&layout=compact" alt="smilewithkhushi" />
 <img width=48% src="https://github-readme-stats.vercel.app/api?username=smilewithkhushi&show_icons=true&locale=en" alt="smilewithkhushi" />
 <img width=40% src="https://github-readme-streak-stats.herokuapp.com/?user=smilewithkhushi&" alt="smilewithkhushi" /></p>
 <img alt="Khushi's Activity Graph" width="99%" src="https://activity-graph.herokuapp.com/graph?username=smilewithkhushi&bg_color=FFFFFF&color=000000&line=#38940A&point=000000&hide_border=true">
+
+
+<h1 align="center"> ✨ HacktoberFest 2022 ✨</h1> 
+
+<a href="https://www.holopin.io/userbadge/cl8nasl1r1203209lbgyf35gly">
+<img alt="Khushi's Holopin Badge" width="30%" src="https://user-images.githubusercontent.com/102166679/193982606-63df6612-43da-4dd4-9f8c-13156b684bc3.png">
+</a>
+
+<a href="https://www.holopin.io/userbadge/cl8r8afh6026609ldfwiv9i19">
+<img alt="Khushi's Holopin Badge" width="30%" src="https://user-images.githubusercontent.com/102166679/193982637-44428d04-0367-4d73-9c20-f115fcc51f44.png">
+</a>
+
 
 [![@smilewithkhushi's Holopin board](https://holopin.io/api/user/board?user=smilewithkhushi)](https://holopin.io/@smilewithkhushi)

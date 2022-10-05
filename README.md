@@ -10,15 +10,16 @@
 
 - 👩🏻‍💻 Technical Education: *ADCA-WEB*
 
-- 🌱 I’m currently working on *Web Development, Competitive Programming and Data Science*
+- 🌱 I’m currently working on *Full Stack Development and Data Science*
 
-- 🤝 Looking to collaborate on *Web and Android Development*
+- 🤝 Looking for Open Source collaborations on *Web and Android Development*
 
 - 🎨 Random Fact: *I am a FitDev, YouTuber and Content Creator*
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+ <a href="https://youtube.com/c/smilewithkhushi" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="youtube" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/smilewithkhushi" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" height="40" width="40" /></a>
 <a href="https://facebook.com/smilewithkhushi1" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="Facebook" height="40" width="40" /></a>
 <a href="https://instagram.com/smilewithkhushi_" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" alt="instagram" height="40" width="40" /></a>
@@ -27,12 +28,16 @@
  
 <h3 align="left">Languages:</h3>
 <p align="left">
- <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+ <br>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+ <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+ <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
+ 
 </p>
 
 
@@ -40,6 +45,10 @@
 <p><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
   <img src="https://img.shields.io/badge/CANVA-E34F26?style=for-the-badge&logo=CANVA&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" />
+
+
 </p>
 
  <H3 ALIGN="center"> *Show some ❤️ by starring these repositories* </H3>

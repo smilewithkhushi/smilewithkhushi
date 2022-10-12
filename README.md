@@ -74,5 +74,9 @@
 <img alt="Khushi's Holopin Badge" width="30%" src="https://user-images.githubusercontent.com/102166679/195340577-4fa9b088-c3e7-4702-81ed-8904ea8e7ae3.png">
 </a>
 
+<a href="https://www.holopin.io/userbadge/cl95yyebd1597109l8q2vz4v5t">
+<img alt="Khushi's Holopin Badge" width="30%" src="https://user-images.githubusercontent.com/102166679/195423252-1f2c7644-bada-49aa-af26-11f0bfe733fc.png">
+</a>
+
 
 [![@smilewithkhushi's Holopin board](https://holopin.io/api/user/board?user=smilewithkhushi)](https://holopin.io/@smilewithkhushi)

@@ -71,8 +71,7 @@
 </a>
 
 <a href="https://www.holopin.io/userbadge/cl95412fa538309l6krlm38ej">
-<img alt="Khushi's Holopin Badge" width="30%" src="https://user-images.githubusercontent.com/102166679/195340577-4fa9b088-c3e7-4702-81ed-8904ea8e7ae3.png
-">
+<img alt="Khushi's Holopin Badge" width="30%" src="https://user-images.githubusercontent.com/102166679/195340577-4fa9b088-c3e7-4702-81ed-8904ea8e7ae3.png">
 </a>
 
 

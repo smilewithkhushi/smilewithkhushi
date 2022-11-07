@@ -62,35 +62,39 @@
 
 <h2 align="center"> ✨ HacktoberFest 2022 ✨</h2> 
 
+<div align="center">
 
 <a href="https://www.holopin.io/userbadge/cl8nasl1r1203209lbgyf35gly">
-<img alt="Khushi's Holopin Badge" width="20%" src="https://user-images.githubusercontent.com/102166679/193982606-63df6612-43da-4dd4-9f8c-13156b684bc3.png">
+<img alt="Khushi's Holopin Badge" width="25%" src="https://user-images.githubusercontent.com/102166679/193982606-63df6612-43da-4dd4-9f8c-13156b684bc3.png">
 </a>
 
 <a href="https://www.holopin.io/userbadge/cl8r8afh6026609ldfwiv9i19">
-<img alt="Khushi's Holopin Badge" width="20%" src="https://user-images.githubusercontent.com/102166679/193982637-44428d04-0367-4d73-9c20-f115fcc51f44.png">
+<img alt="Khushi's Holopin Badge" width="25%" src="https://user-images.githubusercontent.com/102166679/193982637-44428d04-0367-4d73-9c20-f115fcc51f44.png">
 </a>
 
 <a href="https://www.holopin.io/userbadge/cl95412fa538309l6krlm38ej">
-<img alt="Khushi's Holopin Badge" width="20%" src="https://user-images.githubusercontent.com/102166679/195340577-4fa9b088-c3e7-4702-81ed-8904ea8e7ae3.png">
+<img alt="Khushi's Holopin Badge" width="25%" src="https://user-images.githubusercontent.com/102166679/195340577-4fa9b088-c3e7-4702-81ed-8904ea8e7ae3.png">
 </a>
 
 <a href="https://www.holopin.io/userbadge/cl95yyebd1597109l8q2vz4v5t">
-<img alt="Khushi's Holopin Badge" width="20%" src="https://user-images.githubusercontent.com/102166679/195423252-1f2c7644-bada-49aa-af26-11f0bfe733fc.png">
+<img alt="Khushi's Holopin Badge" width="25%" src="https://user-images.githubusercontent.com/102166679/195423252-1f2c7644-bada-49aa-af26-11f0bfe733fc.png">
 </a>
 
 <a href="holopin.io/userbadge/cl9dk82yq824009l1kv41oepi">
-<img alt="Khushi's Holopin Badge" width="20%" src="https://user-images.githubusercontent.com/102166679/200321675-becdf7e1-9296-4b62-aa60-9f8e46a17a6f.png">
+<img alt="Khushi's Holopin Badge" width="25%" src="https://user-images.githubusercontent.com/102166679/200321675-becdf7e1-9296-4b62-aa60-9f8e46a17a6f.png">
 </a>
 
 
 <a href="https://www.holopin.io/userbadge/cl9nkciic041108l98k8g8fxx">
-<img alt="Khushi's Holopin Badge" width="20%" src="https://user-images.githubusercontent.com/102166679/200321943-379c376f-9024-4873-b4ac-26a1a1badcbe.png">
+<img alt="Khushi's Holopin Badge" width="25%" src="https://user-images.githubusercontent.com/102166679/200321943-379c376f-9024-4873-b4ac-26a1a1badcbe.png">
 </a>
 
 
 <a href="https://www.holopin.io/userbadge/cla2eikuk048608ih4wa4dujj">
-<img alt="Khushi's Holopin Badge" width="20%" src="https://user-images.githubusercontent.com/102166679/200322200-11633b39-3258-4439-943b-ad03b287773f.png">
+<img alt="Khushi's Holopin Badge" width="22%" src="https://user-images.githubusercontent.com/102166679/200322200-11633b39-3258-4439-943b-ad03b287773f.png">
 </a>
+
+</div>
+
 
 [![@smilewithkhushi's Holopin board](https://holopin.io/api/user/board?user=smilewithkhushi)](https://holopin.io/@smilewithkhushi)

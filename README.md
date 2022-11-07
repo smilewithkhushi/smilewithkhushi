@@ -61,6 +61,7 @@
 
 
 <h2 align="center"> ✨ HacktoberFest 2022 ✨</h2> 
+[![@smilewithkhushi's Holopin board](https://holopin.me/smilewithkhushi)](https://holopin.io/@smilewithkhushi)
 
 <a href="https://www.holopin.io/userbadge/cl8nasl1r1203209lbgyf35gly">
 <img alt="Khushi's Holopin Badge" width="30%" src="https://user-images.githubusercontent.com/102166679/193982606-63df6612-43da-4dd4-9f8c-13156b684bc3.png">

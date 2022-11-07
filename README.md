@@ -80,11 +80,17 @@
 </a>
 
 <a href="holopin.io/userbadge/cl9dk82yq824009l1kv41oepi">
-<img alt="Khushi's Holopin Badge" width="20%" src="">
-
- 
- 
+<img alt="Khushi's Holopin Badge" width="20%" src="https://user-images.githubusercontent.com/102166679/200321675-becdf7e1-9296-4b62-aa60-9f8e46a17a6f.png">
 </a>
 
+
+<a href="https://www.holopin.io/userbadge/cl9nkciic041108l98k8g8fxx">
+<img alt="Khushi's Holopin Badge" width="20%" src="https://user-images.githubusercontent.com/102166679/200321943-379c376f-9024-4873-b4ac-26a1a1badcbe.png">
+</a>
+
+
+<a href="https://www.holopin.io/userbadge/cla2eikuk048608ih4wa4dujj">
+<img alt="Khushi's Holopin Badge" width="20%" src="https://user-images.githubusercontent.com/102166679/200322200-11633b39-3258-4439-943b-ad03b287773f.png">
+</a>
 
 [![@smilewithkhushi's Holopin board](https://holopin.io/api/user/board?user=smilewithkhushi)](https://holopin.io/@smilewithkhushi)

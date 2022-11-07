@@ -61,22 +61,29 @@
 
 
 <h2 align="center"> ✨ HacktoberFest 2022 ✨</h2> 
-[![@smilewithkhushi's Holopin board](https://holopin.me/smilewithkhushi)](https://holopin.io/@smilewithkhushi)
+
 
 <a href="https://www.holopin.io/userbadge/cl8nasl1r1203209lbgyf35gly">
-<img alt="Khushi's Holopin Badge" width="30%" src="https://user-images.githubusercontent.com/102166679/193982606-63df6612-43da-4dd4-9f8c-13156b684bc3.png">
+<img alt="Khushi's Holopin Badge" width="20%" src="https://user-images.githubusercontent.com/102166679/193982606-63df6612-43da-4dd4-9f8c-13156b684bc3.png">
 </a>
 
 <a href="https://www.holopin.io/userbadge/cl8r8afh6026609ldfwiv9i19">
-<img alt="Khushi's Holopin Badge" width="30%" src="https://user-images.githubusercontent.com/102166679/193982637-44428d04-0367-4d73-9c20-f115fcc51f44.png">
+<img alt="Khushi's Holopin Badge" width="20%" src="https://user-images.githubusercontent.com/102166679/193982637-44428d04-0367-4d73-9c20-f115fcc51f44.png">
 </a>
 
 <a href="https://www.holopin.io/userbadge/cl95412fa538309l6krlm38ej">
-<img alt="Khushi's Holopin Badge" width="30%" src="https://user-images.githubusercontent.com/102166679/195340577-4fa9b088-c3e7-4702-81ed-8904ea8e7ae3.png">
+<img alt="Khushi's Holopin Badge" width="20%" src="https://user-images.githubusercontent.com/102166679/195340577-4fa9b088-c3e7-4702-81ed-8904ea8e7ae3.png">
 </a>
 
 <a href="https://www.holopin.io/userbadge/cl95yyebd1597109l8q2vz4v5t">
-<img alt="Khushi's Holopin Badge" width="30%" src="https://user-images.githubusercontent.com/102166679/195423252-1f2c7644-bada-49aa-af26-11f0bfe733fc.png">
+<img alt="Khushi's Holopin Badge" width="20%" src="https://user-images.githubusercontent.com/102166679/195423252-1f2c7644-bada-49aa-af26-11f0bfe733fc.png">
+</a>
+
+<a href="holopin.io/userbadge/cl9dk82yq824009l1kv41oepi">
+<img alt="Khushi's Holopin Badge" width="20%" src="">
+
+ 
+ 
 </a>
 
 

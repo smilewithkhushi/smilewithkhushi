@@ -8,13 +8,13 @@
 
 - 👩🏻‍💻 Education: *2nd Year Undergrad pursuing B.Sc(H) Computer Science*
 
-- 👩🏻‍💻 Technical Education: *ADCA-WEB*
+- 👩🏻‍💻 Certifications: *ADCA-WEB, Cloud Digital Leader*
 
 - 🌱 I’m currently working on *Full Stack Development and Data Science*
 
 - 🤝 Looking for Open Source collaborations on *Web and Android Development*
 
-- 🎨 Random Fact: *I am a FitDev, YouTuber and Content Creator*
+- 🎨 Random Fact: *I am a FitDev, Coding Mentor, YouTuber and Content Creator*
 
 
 <h3 align="left">Connect with me:</h3>

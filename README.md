@@ -6,7 +6,7 @@
 
 - 😄 Pronouns: *She/Her*
 
-- 👩🏻‍💻 Education: *2nd Year Undergrad pursuing B.Sc(H) Computer Science*
+- 👩🏻‍💻 Education: *2nd Year Undergrad pursuing B.Sc(H) Computer Science from University of Delhi*
 
 - 👩🏻‍💻 Certifications: *ADCA-WEB, Cloud Digital Leader*
 

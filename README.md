@@ -12,9 +12,7 @@
 
 - 🌱 I’m currently working on *Full Stack Development and Data Science*
 
-- 🤝 Looking for Open Source collaborations on *Web and Android Development*
-
-- 🎨 Random Fact: *I am a FitDev, Coding Mentor, YouTuber and Content Creator*
+- 🎨 Random Fact: *I am a Taekwondo Athlete, Coding Mentor & a YouTuber*
 
 
 <h3 align="left">Connect with me:</h3>

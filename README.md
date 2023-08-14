@@ -1,3 +1,5 @@
+![twitter header (2)](https://github.com/smilewithkhushi/smilewithkhushi/assets/102166679/4b297ec3-337c-411a-9027-220de313ace5)
+
 <h1 align="center">Hi there! I'm Khushi Panwar <br> <img src="https://c.tenor.com/neqnFd4CHWAAAAAC/up-wave.gif" width=150 /> </h1>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=smilewithkhushi&label=Profile%20views&color=0e75b6&style=flat" alt="smilewithkhushi"/></p>
 
@@ -10,7 +12,7 @@
 
 - 👩🏻‍💻 Certifications: *ADCA-WEB, Cloud Digital Leader*
 
-- 🌱 I’m currently working on *Full Stack Development and Data Science*
+- 🌱 I love to work with various tech stacks
 
 - 🎨 Random Fact: *I am a Taekwondo Athlete, Coding Mentor & a YouTuber*
 
@@ -22,6 +24,10 @@
 <a href="https://facebook.com/smilewithkhushi1" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="Facebook" height="40" width="40" /></a>
 <a href="https://instagram.com/smilewithkhushi_" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" alt="instagram" height="40" width="40" /></a>
 <a href="https://twitter.com/smilewithkhushi" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="twitter" height="40" width="40" /></a>
+ <a href="https://github/smilewithkhushi" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" height="40" width="40" /></a>
+ 
+ <a href="https://smilewithkhushi.hashnode.dev" target="blank"> <img src="https://github.com/smilewithkhushi/smilewithkhushi/assets/102166679/4a8f09a1-563c-4810-a153-c3414983443b" alt="hashnode" height="40" width="40" /></a>
+
 <a href="mailto:smilewithkhushiyt@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" height="40" width="50" /></a>
  
 <h3 align="left">I work with:</h3>

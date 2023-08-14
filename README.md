@@ -25,9 +25,6 @@
 <a href="https://instagram.com/smilewithkhushi_" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" alt="instagram" height="40" width="40" /></a>
 <a href="https://twitter.com/smilewithkhushi" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="twitter" height="40" width="40" /></a>
  <a href="https://github/smilewithkhushi" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" height="40" width="40" /></a>
- 
- <a href="https://smilewithkhushi.hashnode.dev" target="blank"> <img src="https://github.com/smilewithkhushi/smilewithkhushi/assets/102166679/4a8f09a1-563c-4810-a153-c3414983443b" alt="hashnode" height="40" width="40" /></a>
-
 <a href="mailto:smilewithkhushiyt@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" height="40" width="50" /></a>
  
 <h3 align="left">I work with:</h3>
@@ -41,6 +38,7 @@
           
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" height="50px" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  height="50px"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50px"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="50px"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50px"/>
           
@@ -48,7 +46,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  height="50px"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50px"/>       
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"  height="50px" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"  height="50px" />    
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"  height="50px" />  
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"  height="50px"/>
           
   

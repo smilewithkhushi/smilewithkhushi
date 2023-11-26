@@ -14,7 +14,7 @@
 
 - 🌱 I love to work with various tech stacks
 
-- 🎨 Random Fact: *I am a Taekwondo Athlete, Coding Mentor & a YouTuber*
+- 🎨 Random Fact: *I am a Taekwondo Athlete & a YouTuber*
 
 
 <h3 align="left">Connect with me:</h3>
@@ -81,14 +81,12 @@
 
 
 </p>
-
- <H3 ALIGN="center"> *Show some ❤️ by starring these repositories* </H3>
-<h3 align="center"> ✨ My GitHub Activity ✨</h3>  
+<!-- <h3 align="center"> ✨ My GitHub Activity ✨</h3>  
 <p align="center"><a href="https://github.com/smilewithkhushi">
 <img width=30% src="https://github-readme-stats.vercel.app/api/top-langs?username=smilewithkhushi&show_icons=true&locale=en&layout=compact" alt="smilewithkhushi" />
 <img width=38% src="https://github-readme-stats.vercel.app/api?username=smilewithkhushi&show_icons=true&locale=en" alt="smilewithkhushi" />
 <img width=30% src="https://github-readme-streak-stats.herokuapp.com/?user=smilewithkhushi&" alt="smilewithkhushi" /></p>
- <br>
+ <br> -->
 
  <!-- <img alt="Khushi's Activity Graph" width="99%" src="https://activity-graph.herokuapp.com/graph?username=smilewithkhushi&bg_color=FFFFFF&color=000000&line=#38940A&point=000000&hide_border=true"> -->
 
@@ -134,3 +132,7 @@
 </a>
 
 </div>
+
+
+
+ <H3 ALIGN="center"> *Show some ❤️ by starring my repositories* </H3>

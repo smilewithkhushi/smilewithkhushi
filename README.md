@@ -1,6 +1,6 @@
 ![twitter header (2)](https://github.com/smilewithkhushi/smilewithkhushi/assets/102166679/4b297ec3-337c-411a-9027-220de313ace5)
 
-<h1 align="center">Hi there! I'm Khushi Panwar <br> <img src="https://c.tenor.com/neqnFd4CHWAAAAAC/up-wave.gif" width=150 /> </h1>
+<h1 align="center">Hi there! I'm Khushi <br> <img src="https://c.tenor.com/neqnFd4CHWAAAAAC/up-wave.gif" width=150 /> </h1>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=smilewithkhushi&label=Profile%20views&color=0e75b6&style=flat" alt="smilewithkhushi"/></p>
 
 <img align="right" src="https://c.tenor.com/Rft05nnPfpgAAAAM/sewa-rumah-nak-baya-bile.gif" width=300 margin="20px"/>
@@ -8,14 +8,11 @@
 
 - 😄 Pronouns: *She/Her*
 
-- 👩🏻‍💻 Education: *3rd Year Undergrad pursuing B.Sc(H) Computer Science from University of Delhi*
+- 👩🏻‍💻 I love to build Mobile Applications & Interactive Websites
 
-- 👩🏻‍💻 Certifications: *ADCA-WEB, Cloud Digital Leader*
+- 🌱 Currently Exploring Web 3
 
-- 🌱 I love to work with various tech stacks
-
-- 🎨 Random Fact: *I am a Taekwondo Athlete & a YouTuber*
-
+- 🎨 Random Fact: *I am a National Taekwondo Athlete*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

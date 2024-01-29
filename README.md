@@ -82,7 +82,6 @@
 <img width=30% src="https://github-readme-streak-stats.herokuapp.com/?user=smilewithkhushi&" alt="smilewithkhushi" /></p>
  <br> 
 
-  <img alt="Khushi's Activity Graph" width="99%" src="https://activity-graph.herokuapp.com/graph?username=smilewithkhushi&bg_color=FFFFFF&color=000000&line=#38940A&point=000000&hide_border=true"> 
 
  <H3 ALIGN="center"> *Show some ❤️ by starring my repositories* </H3>
  

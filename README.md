@@ -78,9 +78,9 @@
  <h3 align="center"> ✨ My GitHub Activity ✨</h3>  
 <p align="center"><a href="https://github.com/smilewithkhushi">
  
-<img width=30%  height=20% src="https://github-readme-stats.vercel.app/api?username=smilewithkhushi&show_icons=true&locale=en" alt="smilewithkhushi" />
+<img width=30%  height=20% src="https://github-readme-stats.vercel.app/api?username=smilewithkhushi&theme=dark&hide_border=true&show_icons=true&locale=en" alt="smilewithkhushi" />
   <img width=35% src='https://github-readme-streak-stats.herokuapp.com/?user=smilewithkhushi&theme=dark&hide_border=true' />
-<img width=24% height=20% src="https://github-readme-stats.vercel.app/api/top-langs?username=smilewithkhushi&show_icons=true&locale=en&layout=compact" alt="smilewithkhushi" />
+<img width=24% height=20% src="https://github-readme-stats.vercel.app/api/top-langs?username=smilewithkhushi&theme=dark&hide_border=true&show_icons=true&locale=en&layout=compact" alt="smilewithkhushi" />
 </p>
  <br> 
 

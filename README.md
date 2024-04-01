@@ -13,6 +13,7 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=smilewithkhushi&label=Profile%20views&color=0e75b6&style=flat" alt="smilewithkhushi"/></p>
 
 <img align="right" src="https://c.tenor.com/Rft05nnPfpgAAAAM/sewa-rumah-nak-baya-bile.gif" width=300 margin="20px"/>
+<br>
 <h3 align="left">About Me: </h3>
 
 - Pursuing CS Honours from Delhi University🎓

@@ -1,27 +1,43 @@
 
-<h1 align="center">Hi there! I'm Khushi <br> <img src="https://c.tenor.com/neqnFd4CHWAAAAAC/up-wave.gif" width=150 /> </h1>
+<h1 align="center"> 
+ 
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&random=false&width=280&lines=Hi+there+.+I'm+Khushi+!+👋🏻)](https://github.com/smilewithkhushi)
+
+<img align="center" src="https://c.tenor.com/neqnFd4CHWAAAAAC/up-wave.gif" width=150 />  </h1>
+
+<p align="center"> <i> A technophile who loves to innovate, build ground-breaking products and empower developer ecosytems/communities. </i></p>
+
+
+<br>
+
 <p align="left"><img src="https://komarev.com/ghpvc/?username=smilewithkhushi&label=Profile%20views&color=0e75b6&style=flat" alt="smilewithkhushi"/></p>
 
 <img align="right" src="https://c.tenor.com/Rft05nnPfpgAAAAM/sewa-rumah-nak-baya-bile.gif" width=300 margin="20px"/>
 <h3 align="left">About Me: </h3>
 
-- 😄 Pronouns: *She/Her*
+- Pursuing CS Honours from Delhi University🎓
+- Full Stack Web and Application Developer📱
+- Exploring Web3 🌐
+- Technical Content Creator and Writer ✍🏻
+- Tech Educator [@VMACE](https://www.vmace.in) 👩🏻‍🏫
+- Google Developer Student Clubs Lead 2023-24 [@GDSC-SRCASW](https://github.com/gdscsrcasw) ✨
+- Beta Microsoft Learn Student Ambassador 💫
+- Postman Student Expert 👩🏻‍💻
+- 3x Google Cloud Campaign Facilitator 💻
+- CDL (Cloud Digital Leader) Certified ☁️
+- *National Taekwondo Athelete & Fitness YouTuber* 🥋
 
-- 👩🏻‍💻 I love to build Mobile Applications & Interactive Websites
-
-- 🌱 Currently Exploring Web 3
-
-- 🎨 Random Fact: *I am a National Taekwondo Athlete*
+<hr>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
- <a href="https://youtube.com/c/smilewithkhushi" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="youtube" height="40" width="40" /></a>
-<a href="https://linkedin.com/in/smilewithkhushi" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" height="40" width="40" /></a>
-<a href="https://facebook.com/smilewithkhushi1" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="Facebook" height="40" width="40" /></a>
-<a href="https://instagram.com/smilewithkhushi_" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" alt="instagram" height="40" width="40" /></a>
-<a href="https://twitter.com/smilewithkhushi" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="twitter" height="40" width="40" /></a>
- <a href="https://github/smilewithkhushi" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" height="40" width="40" /></a>
-<a href="mailto:smilewithkhushiyt@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" height="40" width="50" /></a>
+ <a href="https://youtube.com/c/smilewithkhushi" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="youtube" height="35" width="35" /></a>
+<a href="https://linkedin.com/in/smilewithkhushi" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" height="35" width="35" /></a>
+<a href="https://facebook.com/smilewithkhushi1" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="Facebook" height="35" width="35" /></a>
+<a href="https://instagram.com/smilewithkhushi_" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" alt="instagram" height="35" width="35" /></a>
+<a href="https://twitter.com/smilewithkhushi" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="twitter" height="40" width="35" /></a>
+ <a href="https://github/smilewithkhushi" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" height="35" width="35" /></a>
+<a href="mailto:smilewithkhushiyt@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" height="35" width="40" /></a>
  
 <h3 align="left">I work with:</h3>
 

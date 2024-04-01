@@ -7,16 +7,19 @@
 
 <p align="center"> <i> A technophile who loves to innovate, build ground-breaking products and empower developer ecosytems/communities. </i></p>
 
-
 <br>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=smilewithkhushi&label=Profile%20views&color=0e75b6&style=flat" alt="smilewithkhushi"/></p>
+
+<br>
 
 <img align="right" src="https://c.tenor.com/Rft05nnPfpgAAAAM/sewa-rumah-nak-baya-bile.gif" width=300 margin="20px"/>
 
 <br>
 
 <h3 align="left">About Me: </h3>
+
+<br>
 
 - Pursuing CS Honours from Delhi University🎓
 - Full Stack Web and Application Developer📱

@@ -13,13 +13,9 @@
 
 <br>
 
-<img align="right" src="https://c.tenor.com/Rft05nnPfpgAAAAM/sewa-rumah-nak-baya-bile.gif" width=300 margin="20px"/>
-
-<br>
+<img align="right" src="https://c.tenor.com/Rft05nnPfpgAAAAM/sewa-rumah-nak-baya-bile.gif" width=300 margin="50px"/>
 
 <h3 align="left">About Me: </h3>
-
-<br>
 
 - Pursuing CS Honours from Delhi University🎓
 - Full Stack Web and Application Developer📱

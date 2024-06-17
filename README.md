@@ -16,9 +16,9 @@
 
 <h3 align="left">About Me: </h3>
 
-- Pursuing CS Honours from Delhi University🎓
+- CS Honours Graduate from Delhi University🎓
 - Full Stack Web and Application Developer📱
-- Exploring Web3 🌐
+- Exploring Web3 & DApp Development🌐
 - Technical Content Creator and Writer ✍🏻
 - Tech Educator [@VMACE](https://www.vmace.in) 👩🏻‍🏫
 - Building [Dev-Station](https://linktr.ee/devstations) Community 💪

@@ -21,10 +21,9 @@
 - Passionate about Web3 & DApp Development🌐
 - Technical Content Creator and Writer ✍🏻
 - Tech Educator [@VMACE](https://www.vmace.in) 👩🏻‍🏫
-- Building [Dev-Station](https://linktr.ee/devstations) Community 💪
 - Google Women Techmakers Ambassador🪄
 - Google Developer Student Clubs Lead 2023-24 [@GDSC-SRCASW](https://github.com/gdscsrcasw) ✨
-- Beta Microsoft Learn Student Ambassador 💫
+- Microsoft Learn Student Ambassador 💫
 - Postman Student Expert 👩🏻‍💻
 - 3x Google Cloud Campaign Facilitator 💻
 - CDL (Cloud Digital Leader) Certified ☁️

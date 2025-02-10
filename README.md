@@ -16,7 +16,6 @@
 
 <h3 align="left">About Me: </h3>
 
-- CS Honours Graduate from Delhi University🎓
 - Full Stack Web and Application Developer📱
 - Passionate about Web3 & DApp Development🌐
 - Technical Content Creator and Writer ✍🏻

@@ -19,11 +19,10 @@
 - Full Stack Web and Application Developer📱
 - Passionate about Web3 & DApp Development🌐
 - Technical Content Creator and Writer ✍🏻
-- Tech Educator [@VMACE](https://www.vmace.in) 👩🏻‍🏫
+- Alchemy & Arbitrum Ambassador💙
 - Google Women Techmakers Ambassador🪄
 - Google Developer Student Clubs Lead 2023-24 [@GDSC-SRCASW](https://github.com/gdscsrcasw) ✨
 - Microsoft Learn Student Ambassador 💫
-- Postman Student Expert 👩🏻‍💻
 - 3x Google Cloud Campaign Facilitator 💻
 - CDL (Cloud Digital Leader) Certified ☁️
 - *National Taekwondo Athelete & Fitness YouTuber* 🥋

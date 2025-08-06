@@ -21,7 +21,7 @@
 - Technical Content Creator and Writer ✍🏻
 - Alchemy & Arbitrum Ambassador💙
 - Google Women Techmakers Ambassador🪄
-- Google Developer Student Clubs Lead 2023-24 [@GDSC-SRCASW](https://github.com/gdscsrcasw) ✨
+- Google Developer Student Clubs Lead @GDSC-SRCASW ✨
 - Microsoft Learn Student Ambassador 💫
 - 3x Google Cloud Campaign Facilitator 💻
 - CDL (Cloud Digital Leader) Certified ☁️

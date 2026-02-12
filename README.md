@@ -19,7 +19,6 @@
 - Full Stack Web and Application Developer📱
 - Passionate about Web3 & DApp Development🌐
 - Technical Content Creator and Writer ✍🏻
-- Alchemy & Arbitrum Ambassador💙
 - Google Women Techmakers Ambassador🪄
 - Google Developer Student Clubs Lead @GDSC-SRCASW ✨
 - Microsoft Learn Student Ambassador 💫

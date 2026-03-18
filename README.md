@@ -28,16 +28,6 @@
 
 <hr>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
- <a href="https://youtube.com/c/smilewithkhushi" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="youtube" height="35" width="35" /></a>
-<a href="https://linkedin.com/in/smilewithkhushi" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" height="35" width="35" /></a>
-<a href="https://facebook.com/smilewithkhushi1" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="Facebook" height="35" width="35" /></a>
-<a href="https://instagram.com/smilewithkhushi_" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" alt="instagram" height="35" width="35" /></a>
-<a href="https://twitter.com/smilewithkhushi" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="twitter" height="40" width="35" /></a>
- <a href="https://github/smilewithkhushi" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" height="35" width="35" /></a>
-<a href="mailto:smilewithkhushiyt@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" height="35" width="40" /></a>
- 
 <h3 align="left">I work with:</h3>
 
 <p align="left">

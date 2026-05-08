@@ -5,7 +5,7 @@
 
 <img align="center" src="https://c.tenor.com/neqnFd4CHWAAAAAC/up-wave.gif" width=150 />  </h1>
 
-<p align="center"> <i> A technophile who loves to innovate, build ground-breaking products and empower developer ecosytems/communities. </i></p>
+<p align="center"> <i> A technophile who loves to innovate, build products and grow developer ecosytems. </i></p>
 
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=smilewithkhushi&label=Profile%20views&color=0e75b6&style=flat" alt="smilewithkhushi"/></p>
@@ -17,14 +17,12 @@
 <h3 align="left">About Me: </h3>
 
 - Full Stack Web and Application Developer📱
-- Passionate about Web3 & DApp Development🌐
 - Technical Content Creator and Writer ✍🏻
 - Google Women Techmakers Ambassador🪄
 - Google Developer Student Clubs Lead @GDSC-SRCASW ✨
-- Microsoft Learn Student Ambassador 💫
-- 3x Google Cloud Campaign Facilitator 💻
-- CDL (Cloud Digital Leader) Certified ☁️
-- *National Taekwondo Athelete & Fitness YouTuber* 🥋
+- Microsoft Student Ambassador 💫
+- 3x Google Cloud Campaign Facilitator and CDL (Cloud Digital Leader) Certified ☁️
+- National Taekwondo Athelete & Content Creator 🥋
 
 <hr>
 
@@ -76,21 +74,9 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40px"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg"  height="40px"/>
           
-          
-
 
 </p>
- <h3 align="center"> ✨ My GitHub Activity ✨</h3>  
-<p align="center"><a href="https://github.com/smilewithkhushi">
- 
-<img width=30%  height=20% src="https://github-readme-stats.vercel.app/api?username=smilewithkhushi&theme=dark&hide_border=true&show_icons=true&locale=en" alt="smilewithkhushi" />
-  <img width=35% src='https://github-readme-streak-stats.herokuapp.com/?user=smilewithkhushi&theme=dark&hide_border=true' />
-<img width=24% height=20% src="https://github-readme-stats.vercel.app/api/top-langs?username=smilewithkhushi&theme=dark&hide_border=true&show_icons=true&locale=en&layout=compact" alt="smilewithkhushi" />
-</p>
- <br> 
 
-
- <H3 ALIGN="center"> *Show some ❤️ by starring my repositories* </H3>
  
 <div align="center">
 

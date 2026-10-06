@@ -32,11 +32,17 @@ Here's what 5 years of going all-in looks like:
 - 🌟 WTM Ambassador and Contributor @Superteam India
 - 🏘️ *Prev:* Alchemy & Arbitrum Ambassador &nbsp;·&nbsp; ✨ GDSC Lead &nbsp;·&nbsp; 💫 MLSA &nbsp;·&nbsp; ☁️ 3x Google Cloud Facilitator
 
+&nbsp;
+
+<p align="center"><img src="assets/community.jpg" width="80%" alt="Community talk" /></p>
+
+<br/>
+
 ---
 
 ### 🎲 But before the credentials, here's the real me
 
-<img src="https://media1.tenor.com/m/9G8Vy22RvksAAAAd/jojo-yare-yare-daze.gif" width="280px" align="left" style="margin-right: 24px;" />
+<img src="https://media1.tenor.com/m/9G8Vy22RvksAAAAd/jojo-yare-yare-daze.gif" width="360px" align="left" style="margin-right: 48px;" />
 
 &nbsp;
 
@@ -46,30 +52,24 @@ Here's what 5 years of going all-in looks like:
 ~ I've a very active fitness lifestyle & I love creating content
 
 <br clear="left"/>
-&nbsp;
+
+<br/>
 
 ---
 
 ### 🔐 The obsession that keeps me up at night
 
-Privacy is treated like a privilege when it's meant to be a "right" (most people are unaware of this tbh). So I built a place to change that.
+<img src="assets/draco.png" width="240px" align="right" style="margin-left: 32px; margin-bottom: 4px; margin-top: -48px;" />
 
-<table>
-<tr>
-<td valign="middle" width="50%">
+Privacy is treated like a privilege when it's meant to be a "right" (most people are unaware of this tbh). So I built a place to change that.
 
 **[zkSchool](https://zkschool.xyz)** is a learning and community hub for privacy enthusiasts ~ learn, build and earn. Whether you're a beginner or seasoned pro, it is a community you'd love to be a part of!
 
 **[Get started →](https://zkschool.xyz)**
 
-</td>
-<td valign="middle" width="50%" align="center">
+<br clear="right"/>
 
-<img src="assets/draco.png" width="160px" />
-
-</td>
-</tr>
-</table>
+<br/>
 
 ---
 
@@ -95,6 +95,8 @@ I reach for these whenever there's something to ship:
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Neon](https://img.shields.io/badge/Neon-00E5A0?style=flat-square&logo=neon&logoColor=black)
 
+<br/>
+
 ---
 
 ### 🎬 Watch the journey unfold
@@ -102,6 +104,8 @@ I reach for these whenever there's something to ship:
 If you learn better by listening, here's where I break things down:
 
 🔴 <a href="https://www.youtube.com/playlist?list=PLOuExITUtCedIYcvwW95dDScE4k5B3ctt">Web3 & Blockchain in Hindi</a> &nbsp;·&nbsp; 🔴 <a href="https://www.youtube.com/playlist?list=PLOuExITUtCefyf2MODtMg-zspeyfJVuT7">Privacy Education (zkSchool)</a> &nbsp;·&nbsp; 🔴 <a href="https://www.youtube.com/playlist?list=PLOuExITUtCeflNJNVXPO3ayB4x8-6y-H7">Solana Ecosystem Deep Dive</a> &nbsp;·&nbsp; 🔴 <a href="https://www.youtube.com/playlist?list=PLOuExITUtCeeKcoEdbDs_BhifkSRX27lh">Arbitrum 101</a>
+
+<br/>
 
 ---
 
@@ -118,6 +122,8 @@ If you learn better by listening, here's where I break things down:
 </tr>
 </table>
 
+<br/>
+
 ---
 
 ### 💬 Let's continue the story (together?)
@@ -129,6 +135,8 @@ The best things I've built came from conversations that started with *"hey, what
   <a href="https://linkedin.com/in/smilewithkhushi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
   <a href="https://medium.com/@smilewithkhushi" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
+
+<br/>
 
 ---
 

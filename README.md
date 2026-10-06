@@ -1,3 +1,5 @@
+<!-- ✦ original readme template and creative works by @smilewithkhushi · please don't copy without credit ✦ -->
+
 <p align="center">
   <img src="assets/banner.jpg" width="100%" alt="Khushi Panwar" />
 </p>
@@ -12,10 +14,17 @@
 
 <br/>
 
-### About Me
+---
+
+### 🌱 It started with curiosity
+
+One day I fell down the rabbit hole of technology (and never climbed back out.)
+Since then, I've been on a mission to make the hardest corners of tech feel *human* ~ through talks, community, content, and code.
+
+Here's what 5 years of going all-in looks like:
 
 - 🔭 **Developer Relations & Coordination** at [Horizen](https://horizen.io) / [zkVerify](https://zkverify.io)
-- 🤝 Worked with **20+ brands** across DevRel, Community & B2B Growth
+- 🤝 Worked with **20+ brands** across Software Development, DevRel, Community & B2B Growth
 - 📣 **100k+ followers** combined across socials
 - 🎤 **50+ technical talks** at universities, events & conferences
 - 🛠️ **30+ hackathons organized** with global participation
@@ -25,21 +34,21 @@
 
 ---
 
-### 🎲 Fun Facts About Me
+### 🎲 But before the credentials, here's the real me
 
 <table border="0">
 <tr>
-<td valign="middle" width="35%" align="center">
+<td valign="middle" width="45%" align="center">
 
-<img src="https://media1.tenor.com/m/9G8Vy22RvksAAAAd/jojo-yare-yare-daze.gif" width="200px" />
+<img src="https://media1.tenor.com/m/9G8Vy22RvksAAAAd/jojo-yare-yare-daze.gif" width="250px" />
 
 </td>
-<td valign="middle" width="65%">
+<td valign="middle" width="55%">
 
 ~ I'm an otaku since 2022 🎌  
-~ I'm obsessed with martial arts & yoga as a lifestyle 🥋  
+~ I'm obsessed with martial arts & yoga 🥋  
 ~ I have a very interesting story of entering Web3 🐇  
-~ Fitness as a lifestyle — there's no sport I don't play 🏋️
+~ I've a very active fitness lifestyle & I love creating content
 
 </td>
 </tr>
@@ -47,7 +56,9 @@
 
 ---
 
-### ✨ Making ZK & Cryptography fun with [zkschool.xyz](https://zkschool.xyz)
+### 🔐 The obsession that keeps me up at night
+
+Privacy is treated like a privilege when it's meant to be a "right" (most people are unaware of this tbh). So I built a place to change that.
 
 <table>
 <tr>
@@ -68,7 +79,9 @@
 
 ---
 
-### 🛠️ My Comfort Stack
+### 🛠️ What I build with
+
+I reach for these whenever there's something to ship:
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -90,28 +103,38 @@
 
 ---
 
-### 🌐 Connect with Me
+### 🎬 Watch the journey unfold
+
+If you learn better by listening, here's where I break things down:
+
+🔴 <a href="https://www.youtube.com/playlist?list=PLOuExITUtCedIYcvwW95dDScE4k5B3ctt">Web3 & Blockchain in Hindi</a> &nbsp;·&nbsp; 🔴 <a href="https://www.youtube.com/playlist?list=PLOuExITUtCefyf2MODtMg-zspeyfJVuT7">Privacy Education (zkSchool)</a> &nbsp;·&nbsp; 🔴 <a href="https://www.youtube.com/playlist?list=PLOuExITUtCeflNJNVXPO3ayB4x8-6y-H7">Solana Ecosystem Deep Dive</a> &nbsp;·&nbsp; 🔴 <a href="https://www.youtube.com/playlist?list=PLOuExITUtCeeKcoEdbDs_BhifkSRX27lh">Arbitrum 101</a>
+
+---
+
+### ✍️ Words I've put out into the world
+
+<table border="0">
+<tr>
+<td>📄 <a href="https://medium.com/@smilewithkhushi/prompt-engineering-is-dying-loop-engineering-is-next-d8a007af0732">Prompt Engineering is Dying. Loop Engineering is Next</a></td>
+<td>📄 <a href="https://medium.com/@smilewithkhushi/how-the-aws-outage-exposed-web3s-cloud-dependency-3a23c13a411e">How the AWS Outage Exposed Web3's Cloud Dependency</a></td>
+</tr>
+<tr>
+<td>📄 <a href="https://medium.com/@smilewithkhushi/the-technical-typology-of-prediction-forecasting-projects-6aa497e2c7d9">The Technical Typology of Prediction & Forecasting Projects</a></td>
+<td>📄 <a href="https://medium.com/@smilewithkhushi/inside-solanas-developer-toolbox-a-2025-deep-dive-7f7e6c4df389">Inside Solana's Developer Toolbox: A 2025 Deep Dive</a></td>
+</tr>
+</table>
+
+---
+
+### 💬 Let's continue the story (together?)
+
+The best things I've built came from conversations that started with *"hey, what if..."* , so connect with me!
 
 <p align="center">
   <a href="https://twitter.com/smilewithkhushi" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;
   <a href="https://linkedin.com/in/smilewithkhushi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
   <a href="https://medium.com/@smilewithkhushi" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
-
----
-
-### 🎬 Featured Playlists
-
-<table border="0">
-<tr>
-<td>🔴 <a href="https://www.youtube.com/playlist?list=PLOuExITUtCedIYcvwW95dDScE4k5B3ctt">Web3 & Blockchain in Hindi</a></td>
-<td>🔴 <a href="https://www.youtube.com/playlist?list=PLOuExITUtCefyf2MODtMg-zspeyfJVuT7">Privacy Education (zkSchool)</a></td>
-</tr>
-<tr>
-<td>🔴 <a href="https://www.youtube.com/playlist?list=PLOuExITUtCeflNJNVXPO3ayB4x8-6y-H7">Solana Ecosystem Deep Dive</a></td>
-<td>🔴 <a href="https://www.youtube.com/playlist?list=PLOuExITUtCeeKcoEdbDs_BhifkSRX27lh">Arbitrum 101</a></td>
-</tr>
-</table>
 
 ---
 

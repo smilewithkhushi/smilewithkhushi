@@ -16,11 +16,34 @@
 
 - 🔭 **Developer Relations & Coordination** at [Horizen](https://horizen.io) / [zkVerify](https://zkverify.io)
 - 🤝 Worked with **20+ brands** across DevRel, Community & B2B Growth
+- 📣 **100k+ followers** combined across socials
 - 🎤 **50+ technical talks** at universities, events & conferences
 - 🛠️ **30+ hackathons organized** with global participation
 - 🏆 **40+ bounties & hackathons won** (with $20k+ in prizes)
 - 🌟 WTM Ambassador and Contributor @Superteam India
 - 🏘️ *Prev:* Alchemy & Arbitrum Ambassador &nbsp;·&nbsp; ✨ GDSC Lead &nbsp;·&nbsp; 💫 MLSA &nbsp;·&nbsp; ☁️ 3x Google Cloud Facilitator
+
+---
+
+### 🎲 Fun Facts About Me
+
+<table border="0">
+<tr>
+<td valign="middle" width="35%" align="center">
+
+<img src="https://media1.tenor.com/m/9G8Vy22RvksAAAAd/jojo-yare-yare-daze.gif" width="200px" />
+
+</td>
+<td valign="middle" width="65%">
+
+~ I'm an otaku since 2022 🎌  
+~ I'm obsessed with martial arts & yoga as a lifestyle 🥋  
+~ I have a very interesting story of entering Web3 🐇  
+~ Fitness as a lifestyle — there's no sport I don't play 🏋️
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -77,6 +100,21 @@
 
 ---
 
+### 🎬 Featured Playlists
+
+<table border="0">
+<tr>
+<td>🔴 <a href="https://www.youtube.com/playlist?list=PLOuExITUtCedIYcvwW95dDScE4k5B3ctt">Web3 & Blockchain in Hindi</a></td>
+<td>🔴 <a href="https://www.youtube.com/playlist?list=PLOuExITUtCefyf2MODtMg-zspeyfJVuT7">Privacy Education (zkSchool)</a></td>
+</tr>
+<tr>
+<td>🔴 <a href="https://www.youtube.com/playlist?list=PLOuExITUtCeflNJNVXPO3ayB4x8-6y-H7">Solana Ecosystem Deep Dive</a></td>
+<td>🔴 <a href="https://www.youtube.com/playlist?list=PLOuExITUtCeeKcoEdbDs_BhifkSRX27lh">Arbitrum 101</a></td>
+</tr>
+</table>
+
+---
+
 <div align="center">
 
 <a href="https://www.holopin.io/userbadge/cl8nasl1r1203209lbgyf35gly"><img width="10%" src="https://user-images.githubusercontent.com/102166679/193982606-63df6612-43da-4dd4-9f8c-13156b684bc3.png" /></a>
@@ -89,3 +127,7 @@
 <a href="https://www.holopin.io/userbadge/cl9nkciic041108l98k8g8fxx"><img width="10%" src="https://user-images.githubusercontent.com/102166679/200321943-379c376f-9024-4873-b4ac-26a1a1badcbe.png" /></a>
 
 </div>
+
+<br/>
+
+<p align="center"><i>if you've scrolled this far, just click the follow button so you're able to stalk my profile updates easily :p </i></p>

@@ -36,23 +36,17 @@ Here's what 5 years of going all-in looks like:
 
 ### 🎲 But before the credentials, here's the real me
 
-<table border="0">
-<tr>
-<td valign="middle" width="45%" align="center">
+<img src="https://media1.tenor.com/m/9G8Vy22RvksAAAAd/jojo-yare-yare-daze.gif" width="280px" align="left" style="margin-right: 24px;" />
 
-<img src="https://media1.tenor.com/m/9G8Vy22RvksAAAAd/jojo-yare-yare-daze.gif" width="250px" />
-
-</td>
-<td valign="middle" width="55%">
+&nbsp;
 
 ~ I'm an otaku since 2022 🎌  
 ~ I'm obsessed with martial arts & yoga 🥋  
 ~ I have a very interesting story of entering Web3 🐇  
 ~ I've a very active fitness lifestyle & I love creating content
 
-</td>
-</tr>
-</table>
+<br clear="left"/>
+&nbsp;
 
 ---
 
